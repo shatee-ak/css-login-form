@@ -1,0 +1,40 @@
+#{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-color:black ;
+    width: 300px;
+    height: 400px;
+    border: 7px solid burlywood;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 40%;
+    
+}
+.heading{
+    margin: 0%;
+    padding: 0%;
+    padding-left: 30%;
+    color: white;
+}
+.input{
+    height: 35px;
+    width: 70%;
+    padding-left: 40%;
+    color: aliceblue;
+}
+.name{
+    color: azure;
+}
+.button{
+    padding: 10px;
+    margin-left: 100px;
+    width: 100px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color:burlywood;
+    color:white;
+
+}
+   
